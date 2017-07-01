@@ -1,1 +1,1 @@
-Want to link to [README/#someHeaders](README/#someHeaders)
+Want to link to [README/#someHeaders](README.md#someheader)
